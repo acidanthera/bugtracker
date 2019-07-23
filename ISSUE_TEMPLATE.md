@@ -9,4 +9,4 @@ When to use issue tracker:
 * You have kernel panics, crashes, hangs
 * You want to discuss technical or legal stuff
 
-_If you have a kernel panic, please ensure that you have a DEBUG version of the extension and you have `-v keepsyms=1 debug=0x100` boot arguments added. On 10.13 or higher to avoid kext names scrolling over the panic log you should also [patch your kernel](https://applelife.ru/posts/686953)._
+_If you have a kernel panic, please ensure that you have a DEBUG version of the extension and you have `-v keepsyms=1 debug=0x100` boot arguments added. On 10.13 or higher to avoid kext names scrolling over the panic log you should also [patch your kernel](https://applelife.ru/posts/686953), alternatively if you're using OpenCore, simply set PanicNoKextDump=YES to replace the functionality of the kernel patch._
