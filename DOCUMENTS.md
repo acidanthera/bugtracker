@@ -18,16 +18,16 @@ and defines their state and location.
 | [ACDT0102PEN](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Kexts.md) | Common Kext List | Active | General |
 | [ACDT0103PEN](https://docs.google.com/spreadsheets/d/15S-ocrkm_VTUJpKxNII-YUyQFd5VYdjbe0DHlZVCQyM) | Developer Kext List | Active | Developer |
 | [ACDT0104PEN](https://github.com/acidanthera/Lilu/blob/master/KnownPlugins.md) | Existing Lilu Plugins | Active | General |
-| [ACDT0105PRU](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Shiki.ru.md) | WhateverGreen Shiki FAQ | Active | Supported |
-| [ACDT0105TEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Shiki.en.md) | WhateverGreen Shiki FAQ | Active | Supported |
-| [ACDT0105CCN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Shiki.zh_CN.md) | WhateverGreen Shiki FAQ | Active | Supported |
+| [ACDT0105PRU](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Shiki.ru.md) | WhateverGreen Shiki FAQ | Supported | General |
+| [ACDT0105TEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Shiki.en.md) | WhateverGreen Shiki FAQ | Supported | General |
+| [ACDT0105CCN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Shiki.zh_CN.md) | WhateverGreen Shiki FAQ | Supported | General |
 | [ACDT0106PRU](https://applelife.ru/threads/intel-hd-graphics-3000-4000-4400-4600-5000-5500-5600-520-530-630.1289648) | Intel Graphics Manual | Active | General |
 | [ACDT0106TEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md) | Intel Graphics Manual | Active | General |
 | [ACDT0106CCN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.cn.md) | Intel Graphics Manual | Active | General |
-| [ACDT0107PRU](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Radeon.ru.md) | WhateverGreen Radeon FAQ | Active | Supported |
-| [ACDT0107TEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Radeon.en.md) | WhateverGreen Radeon FAQ | Active | Supported |
+| [ACDT0107PRU](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Radeon.ru.md) | WhateverGreen Radeon FAQ | Supported | General |
+| [ACDT0107TEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.Radeon.en.md) | WhateverGreen Radeon FAQ | Supported | General |
 | [ACDT0108PRU](https://applelife.ru/threads/ati-radeon-hd-4xxx-hd-5xxx-amd-radeon-hd-6xxx-hd-7xxx-r5-r7-r9-rx-vega.28890) | Radeon Graphics Manual | Active | General |
-| [ACDT0109PEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.GeForce.en.md) | WhateverGreen NVIDIA FAQ | Active | Supported |
+| [ACDT0109PEN](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.GeForce.en.md) | WhateverGreen NVIDIA FAQ | Supported | General |
 | [ACDT0110PRU](https://applelife.ru/threads/nvidia-gt-x-640-690-740-760-780-kepler.37131/) | NVIDIA Kepler Graphics Manual | Active | General |
 | [ACDT0111PRU](https://applelife.ru/threads/nvidia-gt-x-750-950-980-maxwell-1030-1080-pascal.1546195/) | NVIDIA Maxwell+ Graphics Manual | Active | General |
 | [ACDT0112PRU](https://applelife.ru/threads/zavod-intel-quick-sync-video.817923/) | Intel Quick Sync Video Manual | Active | General |
