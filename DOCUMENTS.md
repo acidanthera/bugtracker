@@ -34,7 +34,7 @@ and defines their state and location.
 | [ACDT0113PRU](https://github.com/acidanthera/AppleALC/wiki/Установка-и-использование) | AppleALC Manual | Supported | General |
 | [ACDT0113TEN](https://github.com/acidanthera/AppleALC/wiki/Installation-and-usage) | AppleALC Manual | Supported | General |
 | [ACDT0114PRU](https://applelife.ru/threads/filevault-2.1683098) | FileVault 2 Manual | Supported | General |
-| [ACDT0114TEN](https://www.insanelymac.com/forum/topic/317290-filevault-2/) | FileVault 2 | Supported | General |
+| [ACDT0114TEN](https://www.insanelymac.com/forum/topic/317290-filevault-2/) | FileVault 2 Manual | Supported | General |
 | [ACDT0115PRU](https://applelife.ru/posts/550233) | USB FAQ | Supported | General |
 | [ACDT0116PRU](https://applelife.ru/posts/537459) | USB Codeless Kext Creation | Supported | General |
 | [ACDT0117PEN](https://www.insanelymac.com/forum/topic/317802-efi-variable-store-on-aptio-v-haswell-e-and-up/?do=findComment&comment=2562578) | APTIO V NVRAM research | Abandoned | Developer |
