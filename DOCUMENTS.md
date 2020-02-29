@@ -51,7 +51,7 @@ and defines their state and location.
 | [ACDT0126PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SMCSensorKeys.txt) | SMC Sensor Key List | Active | Developer |
 | [ACDT0127PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SensorInfo.md) | VirtualSMC Sensor Manual | Active | Developer |
 | [ACDT0128PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SMCBasics.txt) | SMC Basics | Active | Developer |
-| [ACDT0129PEN](https://github.com/acidanthera/VirtualSMC/blob/master/KnownPlugins.md) | Existing VirtualSMC plugins | Active | Developer |
+| [ACDT0129CEN](https://github.com/acidanthera/VirtualSMC/blob/master/KnownPlugins.md) | Existing VirtualSMC plugins | Active | Developer |
 
 #### Document ID
 
