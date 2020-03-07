@@ -51,7 +51,9 @@ and defines their state and location.
 | [ACDT0126PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SMCSensorKeys.txt) | SMC Sensor Key List | Active | Developer |
 | [ACDT0127PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SensorInfo.md) | VirtualSMC Sensor Manual | Active | Developer |
 | [ACDT0128PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/SMCBasics.txt) | SMC Basics | Active | Developer |
-| [ACDT0129CEN](https://github.com/acidanthera/VirtualSMC/blob/master/KnownPlugins.md) | Existing VirtualSMC plugins | Active | Developer |
+| [ACDT0129CEN](https://github.com/acidanthera/VirtualSMC/blob/master/KnownPlugins.md) | Existing VirtualSMC plugins | Active | General |
+| [ACDT0130PRU](https://applelife.ru/threads/otladka-jadra-i-rasshirenij-jadra.1768642/) | Kernel debugging | Active | Developer |
+| [ACDT0131PRU](https://applelife.ru/threads/virtualizacija-macos-na-vmware.2942818/) | macOS VMware Virtualization | Active | Developer |
 
 #### Document ID
 
