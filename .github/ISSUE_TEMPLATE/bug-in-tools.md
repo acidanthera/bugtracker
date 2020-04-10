@@ -1,6 +1,6 @@
 ---
 name: Bug in tools or applications
-about: Only OpenCore and Lilu configurations are supported
+about: Only OpenCore and Lilu configurations are supported.
 title: ''
 labels: ''
 assignees: ''

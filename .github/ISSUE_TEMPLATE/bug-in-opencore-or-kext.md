@@ -1,6 +1,6 @@
 ---
 name: Bug in OpenCore or KEXTs
-about: Only OpenCore and Lilu configurations are supported
+about: Only OpenCore and Lilu configurations are supported.
 title: ''
 labels: ''
 assignees: ''
@@ -10,6 +10,7 @@ assignees: ''
 Please stop and read this carefully. Otherwise your issue will be left **unaswered** and **closed**.
 
 - Only the latest released versions of OpenCore, Lilu, and other KEXTs are supported.
+- Bugreports involving Chameleon, Clover, Ozmozis or alike are not accepted.
 - Include your your `EFI` directory with OpenCore.
 - Include OpenCore DEBUG log (refer to `Target` in Configuration.pdf).
 - Include Lilu DEBUG log (refer to `-liludbgall liludump=60` boot arguments in README).
