@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Please stop and read this carefully. Otherwise your issue will be left **unaswered** and **closed**.
+Please stop and read this carefully. Otherwise your issue will be left **unanswered** and **closed**.
 
 - Only the latest released versions of OpenCore, Lilu, and other KEXTs are supported.
 - Bugreports involving Chameleon, Clover, Ozmozis or alike are not accepted.
