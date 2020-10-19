@@ -40,6 +40,7 @@ Please file code-level issues regarding [Acidanthera](https://github.com/acidant
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen) | [![Build Status](https://travis-ci.com/acidanthera/WhateverGreen.svg?branch=master)](https://travis-ci.com/acidanthera/WhateverGreen) | [![Scan Status](https://scan.coverity.com/projects/16177/badge.svg?flat=1)](https://scan.coverity.com/projects/16177) | [![Latest Release](https://img.shields.io/github/release/acidanthera/WhateverGreen.svg?style=flat-square&label=)](https://github.com/acidanthera/WhateverGreen/releases)[![Release date](https://img.shields.io/github/release-date/acidanthera/WhateverGreen.svg?style=flat-square&color=informational&label=)](https://github.com/acidanthera/WhateverGreen/releases) | [![Pulls](https://img.shields.io/github/issues-pr-raw/acidanthera/WhateverGreen.svg?style=flat-square&color=informational&label=pulls)](https://github.com/acidanthera/WhateverGreen/pulls) [![Issues](https://img.shields.io/github/issues-raw/acidanthera/bugtracker/project:green.svg?style=flat-square&color=informational&label=issues)](https://github.com/acidanthera/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aproject%3Agreen)
 [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) | Archived | Archived | Archived
 [AptioFixPkg](https://github.com/acidanthera/AptioFixPkg) | Archived | Archived | Archived
+[BT4LEContinuityFixup](https://github.com/acidanthera/BT4LEContinuityFixup) | Archived | Archived | Archived
 [DuetPkg](https://github.com/acidanthera/DuetPkg) | Archived | Archived | Archived
 [EfiPkg](https://github.com/acidanthera/EfiPkg) | Archived | Archived | Archived
 [IOJones](https://github.com/acidanthera/IOJones) | Archived | Archived | Archived
@@ -50,4 +51,3 @@ Please file code-level issues regarding [Acidanthera](https://github.com/acidant
 [OcLegacyPkg](https://github.com/acidanthera/OcLegacyPkg) | Archived | Archived | Archived
 [OcSupportPkg](https://github.com/acidanthera/OcSupportPkg) | Archived | Archived | Archived
 [Shiki](https://github.com/acidanthera/Shiki) | Archived | Archived | Archived
-[BT4LEContinuityFixup](https://github.com/acidanthera/BT4LEContinuityFixup) | Archived | Archived | Archived
