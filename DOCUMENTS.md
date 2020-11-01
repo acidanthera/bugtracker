@@ -42,7 +42,7 @@ and defines their state and location.
 | [ACDT0119PEN](https://www.insanelymac.com/forum/topic/331381-aptiomemoryfix/?do=findComment&comment=2564078) | Booter Modes and KASLR | Abandoned | Developer |
 | [ACDT0120PEN](https://www.insanelymac.com/forum/topic/331381-aptiomemoryfix/?do=findComment&comment=2564269) | KASLR Slide Calculation | Abandoned | Developer |
 | [ACDT0121PEN](https://www.insanelymac.com/forum/topic/331381-aptiomemoryfix/?do=findComment&comment=2572819) | Booter Debug Printing | Abandoned | Developer |
-| [ACDT0122PEN](https://github.com/acidanthera/MacInfoPkg/blob/master/macserial/FORMAT.md) | Apple Serial Format | Active | General |
+| [ACDT0122PEN](https://github.com/acidanthera/OpenCorePkg/blob/master/Utilities/macserial/FORMAT.md) | Apple Serial Format | Active | General |
 | [ACDT0123PEN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/FAQ.md) | VirtualSMC FAQ | Active | General |
 | [ACDT0123CCN](https://github.com/acidanthera/VirtualSMC/blob/master/Docs/FAQ_zh.md) | VirtualSMC FAQ | Active | General |
 | [ACDT0124PRU](https://github.com/acidanthera/AppleALC/wiki/Adding-codec-support) | AppleALC Codec Manual | Supported | Developer |
