@@ -54,6 +54,8 @@ and defines their state and location.
 | [ACDT0129CEN](https://github.com/acidanthera/VirtualSMC/blob/master/KnownPlugins.md) | Existing VirtualSMC plugins | Active | General |
 | [ACDT0130PRU](https://applelife.ru/threads/otladka-jadra-i-rasshirenij-jadra.1768642/) | Kernel debugging | Active | Developer |
 | [ACDT0131PRU](https://applelife.ru/threads/virtualizacija-macos-na-vmware.2942818/) | macOS VMware Virtualization | Active | Developer |
+| [ACDT0132PRU](https://applelife.ru/posts/721059) | Firmware Modification Recommendations | Active | Developer |
+| [ACDT0133PRU](https://applelife.ru/posts/905541) | Apple Secure Boot Explained | Active | Developer |
 
 #### Document ID
 
