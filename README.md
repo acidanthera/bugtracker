@@ -37,6 +37,7 @@ Please file code-level issues regarding [Acidanthera](https://github.com/acidant
 [audk](https://github.com/acidanthera/audk) | External | External | External
 [bugtracker](https://github.com/acidanthera/bugtracker) | No binary | No binary | No binary
 [MacKernelSDK](https://github.com/acidanthera/MacKernelSDK) | No binary | No binary | No binary
+[OcBinaryData](https://github.com/acidanthera/OcBinaryData) |
 [onyx-the-black-cat](https://github.com/acidanthera/onyx-the-black-cat) | In progress | In progress | Master | [![Pulls](https://img.shields.io/github/issues-pr-raw/acidanthera/onyx-the-black-cat.svg?style=flat-square&color=informational&label=pulls)](https://github.com/acidanthera/onyx-the-black-cat/pulls) [![Issues](https://img.shields.io/github/issues-raw/acidanthera/bugtracker/project:onyx.svg?style=flat-square&color=informational&label=issues)](https://github.com/acidanthera/bugtracker/issues?q=is%3Aopen+is%3Aissue+label%3Aproject%3Aonyx)
 [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) | Archived | Archived | Archived
 [AptioFixPkg](https://github.com/acidanthera/AptioFixPkg) | Archived | Archived | Archived
